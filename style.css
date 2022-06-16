@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.car{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 350px;
+    margin-top: 80px;
+}
+.flag{
+    background-color: green;
+    width: 650px;
+    height: 400px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.khuti{
+    width: 5px;
+    height: 350px;
+    background: gray;
+   margin-left: 150px;
+}
+.box{
+    border: 5px solid coral;
+width: 100px;;
+height: 80px;
+background: black;
+margin-left: 110px;
+}
+
+ .bg h1 {
+    background-color: aqua;
+    color: brown;
+    display:inline-block;
+    margin: 20px;
+
+} 
+
+/* sanglass */
+
+.line{
+    width:70%;
+    height: 10px;
+  background-color: #1a1918;
+  margin: auto auto;
+}
+
+.sunglass1{
+    float: left;
+    background-color: azure;
+    height: 300px;;
+    width: 300px; ;
+    padding: 15px;
+    border: 5px solid black;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:200px ;
+    border-bottom-left-radius: 100px;
+    margin-left: 200px;
+}
+.sunglass2{
+    float: right;
+    background-color: azure;
+    height: 300px;;
+    width: 300px; ;
+    padding: 15px;
+    border: 5px solid black;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius:100px ;
+    border-bottom-left-radius: 200px;
+    margin-right: 200px;
+}
+.brother{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(179, 31, 43);
+    font-family: 'Courier New', Courier, monospace;
+}
+/* .block{
+   
+} */
+
+/* pc */
+
+.Munitor h1{ 
+    padding-top:10px;
+    width: 450px;
+    height: 250px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    display:inline-block;
+    margin-top: 150px;
+    border: 5px solid rgb(15, 15, 15);
+    margin-left: 200px;
+    color: brown;
+    
+    
+}
+
+.hp{
+    height: 70px;
+    width: 40px;
+    background:rgb(14, 13, 13);
+    margin-left: 400px;
+    text-align: center;
+    color:#fff;
+}
+.finising{
+    height:100px;
+    width: 160px;
+    background:rgb(12, 11, 11);
+    margin-left:340px ;
+    border-radius: 50%;
+
+}
